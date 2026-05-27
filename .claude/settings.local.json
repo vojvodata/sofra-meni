@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python \"C:\\\\Users\\\\dionm\\\\Desktop\\\\Dion\\\\sofra meni\\\\build_menu.py\")"
+    ]
+  }
+}

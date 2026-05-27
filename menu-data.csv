@@ -1,0 +1,94 @@
+tab,section_mk,section_en,section_el,name_mk,name_en,name_el,weight,price
+breakfast,Појадок,Breakfast,Πρωινό,Омлет,Omelette,Ομελέτα,220 гр.,140 ден.
+breakfast,,,,Пржен леб,French Toast,Φρεγανιά,300 гр.,180 ден.
+breakfast,,,,Јајца на oko,Fried Eggs,Τηγανητά Αυγά,220 гр.,140 ден.
+breakfast,,,,Каjгана,Scrambled Eggs,Αυγά Ανακατεμένα,280 гр.,140 ден.
+breakfast,Додатоци,Add-Ons,Συνοδευτικά,Домат,Tomato,Ντομάτα,,80 ден.
+breakfast,,,,Краставица,Cucumber,Αγγούρι,,80 ден.
+breakfast,,,,Пиперка,Pepper,Πιπεριά,,40 ден.
+breakfast,,,,Пита,Flatbread,Πίτα,,20 ден.
+breakfast,,,,Лепиња,Bread Roll,Ψωμάκι,,40 ден.
+breakfast,,,,Крaвјо сирење,Cow Cheese,Τυρί Αγελάδας,,150 ден.
+breakfast,,,,Биено сирење,Crumbled Cheese,Τριμμένο Τυρί,,150 ден.
+breakfast,,,,Овчо сирење,Sheep Cheese,Τυρί Προβάτου,,170 ден.
+breakfast,,,,Кајмак,Cream Cheese Spread,Καϊμάκι,,80 ден.
+appetizers,Ладно Предјадење,Cold Appetizers,Κρύα Ορεκτικά,Таратор,Tzatziki,Τζατζίκι,,160 ден.
+appetizers,,,,Пинџур,Pindjur,Πίντζουρ,,160 ден.
+appetizers,,,,Малиџано,Malidzano,Μελιτζανοσαλάτα,,160 ден.
+appetizers,Топло Предјадење,Hot Appetizers,Ζεστά Ορεκτικά,Печурки,Mushrooms,Μανιτάρια,350 гр.,280 ден.
+appetizers,,,,Софра стикс,Sofra Sticks,Σοφρά Στικς,330 гр.,220 ден.
+appetizers,,,,Помфрит,French Fries,Τηγανητές Πατάτες,200 гр.,160 ден.
+appetizers,,,,Помфрит со сирење,French Fries with Cheese,Τηγανητές Πατάτες με Τυρί,250 гр.,190 ден.
+appetizers,Похoвано,Breaded Dishes,Πανέ,Пилешки прсти,Chicken Fingers,Κοτόπουλο Πανέ,,250 ден.
+appetizers,,,,Похован качкавал,Breaded Yellow Cheese,Κασέρι Πανέ,,180 ден.
+appetizers,,,,Похована зденка,Breaded Zdenka Cheese,Ζντένκα Πανέ,,160 ден.
+appetizers,,,,Похована пирошка,Breaded Piroshka,Πιροσκί Πανέ,,180 ден.
+appetizers,,,,Похавано сирење,Breaded White Cheese,Λευκό Τυρί Πανέ,,170 ден.
+grill,Скара,Grill,Σχάρα,Кебап,Kebap,Κεμπάπ,35 гр. / парче,25 ден.
+grill,,,,Плескавица,Pljeskavica,Πλέσκαβιτσα,200 гр.,150 ден.
+grill,,,,Шарска,Sharska,Σάρσκα,250 гр. / 500 гр.,190 / 380 ден.
+grill,,,,Т. Дроб во нарамица,Lamb Liver in Caul Fat,Συκώτι Αρνιού σε Εντεριά,200 гр.,230 ден.
+grill,,,,Пилешки стек,Chicken Steak,Μπριζόλα Κοτόπουλου,250 гр.,240 ден.
+grill,,,,Свински ражничи,Pork Skewers,Χοιρινά Σουβλάκια,200 гр.,230 ден.
+grill,,,,Пилешки ражничи,Chicken Skewers,Κοτόπουλο Σουβλάκι,200 гр.,230 ден.
+grill,,,,Свински увијач,Pork Wrap,Χοιρινό Ρολό,330 гр.,290 ден.
+grill,,,,Кременадла,Pork Chop,Χοιρινή Μπριζόλα,350 гр.,290 ден.
+grill,,,,Свинско ребро,Pork Ribs,Παϊδάκια Χοιρινά,300 гр.,290 ден.
+grill,,,,Батак,Drumstick,Μπούτι Κοτόπουλου,250 гр.,240 ден.
+salads,Салати,Salads,Σαλάτες,Шопска салата,Shopska Salad,Χόπσκα Σαλάτα,500 гр.,290 ден.
+salads,,,,Грчка салата,Greek Salad,Ελληνική Σαλάτα,500 гр.,290 ден.
+salads,,,,Пикантна салата,Pikant Salad,Πικάντικη Σαλάτα,300 гр.,290 ден.
+salads,,,,Софра салата,Sofra Salad,Σαλάτα Σοφρά,500 гр.,290 ден.
+salads,,,,Витаминска салата,Vitamin Salad,Βιταμινούχα Σαλάτα,500 гр.,280 ден.
+salads,,,,Компир салата,Potato Salad,Πατατοσαλάτα,250 гр.,160 ден.
+salads,,,,Зелка салата,Cabbage Salad,Λαχανοσαλάτα,400 гр.,150 ден.
+specialties,Софра Специјалитети,Sofra Specialties,Σπεσιαλιτέ Σοφρά,Летна манџа,Summer Stew,Καλοκαιρινό Στιφάδο,250 гр.,230 ден.
+specialties,,,,Селско,Village Style Dish,Χωριάτικο,300 гр.,350 ден.
+specialties,,,,Домашен колбас,Homemade Sausage,Σπιτικό Λουκάνικο,200 гр.,220 ден.
+specialties,,,,Полнето свинско,Stuffed Pork,Γεμιστό Χοιρινό,250 гр.,290 ден.
+specialties,,,,Полнето пилешко,Stuffed Chicken,Γεμιστό Κοτόπουλο,250 гр.,290 ден.
+drinks,Безалкохолни,Soft Drinks,Αναψυκτικά,"Кока Кола 0,33",Coca-Cola 0.33,"Κόκα Κόλα 0,33",,80 ден.
+drinks,,,,"Фанта 0,33",Fanta 0.33,"Φάντα 0,33",,80 ден.
+drinks,,,,"Спрајт 0,33",Sprite 0.33,"Σπράιτ 0,33",,80 ден.
+drinks,,,,"Швепс 0,33",Schweppes 0.33,"Σβεπς 0,33",,80 ден.
+drinks,,,,"Тоник 0,33",Tonic Water 0.33,"Τόνικ 0,33",,80 ден.
+drinks,,,,Густи сок,Thick Juice,Χυμός,,80 ден.
+drinks,,,,Пелистерка (негазирана),Still Water,Νερό (χωρίς ανθρακικό),,50 / 100 ден.
+drinks,,,,Пелистерка (газирана),Sparkling Water,Νερό (με ανθρακικό),,50 / 100 ден.
+drinks,,,,Knjaz Milos (газирана),Knjaz Milos Sparkling,Knjaz Milos (με ανθρακικό),,50 / 100 ден.
+drinks,Кафе,Coffee,Καφές,Еспресо,Espresso,Εσπρέσο,,70 ден.
+drinks,,,,Макујато,Macchiato,Μακιάτο,,70 ден.
+drinks,,,,Капучино,Cappuccino,Καπουτσίνο,,70 ден.
+drinks,,,,Нес кафе,Nescafé,Νεσκαφέ,,70 ден.
+drinks,,,,Турско кафе,Turkish Coffee,Ελληνικός Καφές,,50 ден.
+alcohol,Пиво,Beer,Μπύρα,"Скопско 0,5",Skopsko 0.5,"Σκόπσκο 0,5",,100 ден.
+alcohol,,,,"Златен Даб 0,5",Zlaten Dab 0.5,"Ζλάτεν Νταμπ 0,5",,100 ден.
+alcohol,,,,"Крали Марко 0,5",Krali Marko 0.5,"Κράλι Μάρκο 0,5",,100 ден.
+alcohol,,,,"Амстел 0,5",Amstel 0.5,"Άμστελ 0,5",,130 ден.
+alcohol,,,,"Туборг 0,33",Tuborg 0.33,"Τούμποργκ 0,33",,120 ден.
+alcohol,,,,"Туборг 0,5",Tuborg 0.5,"Τούμποργκ 0,5",,140 ден.
+alcohol,,,,"Хajникен 0,4",Heineken 0.4,"Χάινεκεν 0,4",,140 ден.
+alcohol,,,,"Бира Морети 0,4",Birra Moretti 0.4,"Μπίρα Μορέτι 0,4",,120 ден.
+alcohol,Алкохолни Пијалоци,Spirits,Αλκοολούχα Ποτά,Лозова ракија,Rakija,Τσίπουρο / Ρακί,"0,5 дл.",90 ден.
+alcohol,,,,Коњак,Cognac,Κονιάκ,"0,5 дл.",90 ден.
+alcohol,,,,Вињак,Brandy,Μπράντι,"0,5 дл.",100 ден.
+alcohol,,,,Шток,Schnapps,Σνάπς,"0,5 дл.",100 ден.
+alcohol,,,,Узо Пломари,Ouzo Plomari,Ούζο Πλωμαρίου,"0,5 дл.",100 ден.
+alcohol,,,,Мастика,Mastika Spirit,Μαστίχα,"0,5 дл.",90 ден.
+alcohol,,,,Смирноф,Smirnoff,Σμίρνοφ,"0,5 дл.",120 ден.
+alcohol,,,,Гордонс,Gordon's,Γκόρντον'ς,"0,5 дл.",120 ден.
+alcohol,,,,Лозова ракија,Rakija,Τσίπουρο / Ρακί,"0,200 л.",360 ден.
+alcohol,,,,Узо Пломари,Ouzo Plomari,Ούζο Πλωμαρίου,"0,200 л.",400 ден.
+alcohol,,,,Мастика,Mastika Spirit,Μαστίχα,"0,200 л.",360 ден.
+alcohol,,,,Џони Ред,Johnnie Red,Τζόνι Ρεντ,"0,5 дл.",170 ден.
+alcohol,,,,Џемисон,Jameson,Τζέιμσον,"0,5 дл.",180 ден.
+alcohol,,,,Џек Даниелс,Jack Daniel's,Τζακ Ντάνιελς,"0,5 дл.",250 ден.
+alcohol,,,,Џони Блек,Johnnie Black,Τζόνι Μπλακ,"0,5 дл.",250 ден.
+alcohol,,,,Јегер,Jägermeister,Γέγκερμάιστερ,"0,5 дл.",150 ден.
+alcohol,Вино,Wine,Κρασί,Александрија,Alexandria,Αλεξάνδρεια,"0,187 / 0,750 л.",200 / 670 ден.
+alcohol,,,,Траминец,Traminec,Τραμίνετς,"0,187 / 0,750 л.",200 / 670 ден.
+alcohol,,,,Темјаника,Temjanika,Τεμγιάνικα,"0,187 / 0,750 л.",200 / 670 ден.
+alcohol,,,,Смедеревка Тиквеш,Smederevka Tikvesh,Σμεντέρεβκα Τίκβες,"0,500 / 1 л.",200 / 380 ден.
+alcohol,,,,Розе Тиквеш,Rosé Tikvesh,Ροζέ Τίκβες,"0,500 / 1 л.",200 / 380 ден.
+alcohol,,,,Витач Тиквеш,Vitach Tikvesh,Βίτατς Τίκβες,"0,500 / 1 л.",200 / 380 ден.
+alcohol,,,,Мрзенски рид,Mrzenski Rid,Μρζένσκι Ριντ,"0,250 / 0,500 л.",100 / 200 ден.
